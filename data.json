@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Techdegree project 1",
+            "description": "A Random Quote Generator",
+            "technologies": "JavaScript",
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-1/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-1",
+            "image_urls": "../images/",
+        },
+        {
+            "id": 1,
+            "project_name": "Techdegree project 2",
+            "description": "List Pagination and Filtering",
+            "technologies": "JavaScript",
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-2/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-2",
+            "image_urls": "../images/",
+        },
+        {
+            "id": 2,
+            "project_name": "Techdegree project 3",
+            "description": "Interactive Form",
+            "technologies": "JavaScript",
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-3/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-3",
+            "image_urls": "../images/",
+        },
+        {
+            "id": 3,
+            "project_name": "Techdegree project 4",
+            "description": "OOP Game Show App",
+            "technologies": "JavaScript",
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-4/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-4",
+            "image_urls": "../images/",
+        },
+        {
+            "id": 4,
+            "project_name": "Techdegree project 5",
+            "description": "Public API Requests",
+            "technologies": "JavaScript",
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-5/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-5",
+            "image_urls": "../images/",
+        }
+    ]
+}
