@@ -1,49 +1,49 @@
 {
     "projects": [
         {
-            "id": 0,
-            "project_name": "Techdegree project 1",
-            "description": "A Random Quote Generator",
-            "technologies": "JavaScript",
+            "id": 1,
+            "project_name": "A Random Quote Generator",
+            "description": "This app show a randomly selected quote and display it with over a nice backgound color.",
+            "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "https://paulgrudzien.github.io/techdegree-project-1/",
             "github_link": "https://github.com/PaulGrudzien/techdegree-project-1",
-            "image_urls": "../images/",
-        },
-        {
-            "id": 1,
-            "project_name": "Techdegree project 2",
-            "description": "List Pagination and Filtering",
-            "technologies": "JavaScript",
-            "live_link": "https://paulgrudzien.github.io/techdegree-project-2/",
-            "github_link": "https://github.com/PaulGrudzien/techdegree-project-2",
-            "image_urls": "../images/",
+            "image_urls": ["/static/images/1/main.png", "/static/images/1/capture1.png", "/static/images/1/capture2.png", "/static/images/1/capture3.png"]
         },
         {
             "id": 2,
-            "project_name": "Techdegree project 3",
-            "description": "Interactive Form",
-            "technologies": "JavaScript",
-            "live_link": "https://paulgrudzien.github.io/techdegree-project-3/",
-            "github_link": "https://github.com/PaulGrudzien/techdegree-project-3",
-            "image_urls": "../images/",
+            "project_name": "List Pagination and Filtering",
+            "description": "An exemple about paginating a long results list.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-2/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-2",
+            "image_urls": ["/static/images/2/main.png", "/static/images/2/capture1.png", "/static/images/2/capture2.png", "/static/images/2/capture3.png"]
         },
         {
             "id": 3,
-            "project_name": "Techdegree project 4",
-            "description": "OOP Game Show App",
-            "technologies": "JavaScript",
-            "live_link": "https://paulgrudzien.github.io/techdegree-project-4/",
-            "github_link": "https://github.com/PaulGrudzien/techdegree-project-4",
-            "image_urls": "../images/",
+            "project_name": "Interactive Form",
+            "description": "This form is checked before submit.",
+            "technologies": ["HTML","CSS","JavaScript"],
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-3/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-3",
+            "image_urls": ["/static/images/3/main.png", "/static/images/3/capture1.png", "/static/images/3/capture2.png", "/static/images/3/capture3.png"]
         },
         {
             "id": 4,
-            "project_name": "Techdegree project 5",
-            "description": "Public API Requests",
-            "technologies": "JavaScript",
+            "project_name": "OOP Game Show App",
+            "description": "Could you find the hidden phrase a letter at a time ?",
+            "technologies": ["HTML","CSS","JavaScript", "OOP"],
+            "live_link": "https://paulgrudzien.github.io/techdegree-project-4/",
+            "github_link": "https://github.com/PaulGrudzien/techdegree-project-4",
+            "image_urls": ["/static/images/4/main.png", "/static/images/4/capture1.png", "/static/images/4/capture2.png", "/static/images/4/capture3.png"]
+        },
+        {
+            "id": 5,
+            "project_name": "Public API Requests",
+            "description": "Use a public API to generate random profils",
+            "technologies": ["HTML","CSS","JavaScript"],
             "live_link": "https://paulgrudzien.github.io/techdegree-project-5/",
             "github_link": "https://github.com/PaulGrudzien/techdegree-project-5",
-            "image_urls": "../images/",
+            "image_urls": ["/static/images/5/main.png", "/static/images/5/capture1.png", "/static/images/5/capture2.png", "/static/images/5/capture3.png"]
         }
     ]
 }
