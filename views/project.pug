@@ -18,8 +18,8 @@ block content
           each techno in project.technologies
             li= techno
 
-        a.button.expanded(href=project.live_link,target="_blanc") Live Demo
-        a.button.expanded(href=project.github_link) GitHub Repo
+        a.button.expanded(href=project.live_link,target="_blank") Live Demo
+        a.button.expanded(href=project.github_link,target="_blank") GitHub Repo
     
     each image, index in project.image_urls
         if index != 0
